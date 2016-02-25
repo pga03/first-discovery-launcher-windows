@@ -2,7 +2,7 @@
 
 
 ### What is this?
-An automatic way to install a First Discovery launcher. The repo contains three scripts and two icons.
+An automatic way to install a First Discovery launcher. The repo contains four scripts and two icons.
 
 ### How do I use it?
 - [Install the native host](https://github.com/pga03/first-discovery-native-host)
